@@ -1,2 +1,3 @@
-# page_beta
- For CS313 homework.
+# CS313 wireframe homework.
+## 6204101369
+### จิรายุ พฤฒิทวีวัฒน์
